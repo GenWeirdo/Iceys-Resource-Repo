@@ -1,0 +1,1 @@
+A simple resource location that Icey stores all her files in to be used in projects. 
